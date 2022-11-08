@@ -24,6 +24,7 @@ Je me suis quand même permis un merge./
 
 ## NB
 
-Les données IPS concernent bien évidemment les écoles privés. 
-Par contre, pas d'écoles privées en "zone d'éducation prioritaire"
-Je vais dès que je peux travailler sur les données pour opérer un merge public / privé, qui bien entendu a bcp de sens
+Les données IPS concernent bien évidemment les écoles privées aussi. 
+Par contre, pas d'écoles privées en "zone d'éducation prioritaire" ! 🥹
+
+Je vais dès que je peux travailler sur les données pour opérer un merge public / privé, qui bien entendu a beaucoup de sens.
