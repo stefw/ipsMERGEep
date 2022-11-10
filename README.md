@@ -1,4 +1,4 @@
-## Merge des données des écoles publiques primaires françaises prioritaires et des données IPS (L'indice de position sociale)
+## Merge des données des données éducation prioritaires et des données IPS (L'indice de position sociale) pour les écoles primaires et les collèges en France
 
 Grâce au travail incroyable du journaliste [Alexandre Léchenet](https://twitter.com/alphoenix), les données de l'indice IPS ont été enfin libérées. Son "combat" m'a donné grave envie d'aller plus loin.
 
@@ -21,11 +21,3 @@ Je me suis quand même permis un merge./
 
 [lemonde](https://www.lemonde.fr/les-decodeurs/article/2022/11/08/l-ips-cet-outil-qui-revele-l-ampleur-de-l-entre-soi-dans-les-colleges-prives_6148909_4355770.html)
 
-
-## NB
-
-Les données IPS concernent bien évidemment les écoles privées aussi. 
-
-Par contre, pas d'écoles privées en "zone d'éducation prioritaire" ! 🥹
-
-Je vais dès que je peux travailler sur les données pour opérer un merge public / privé, qui bien entendu a beaucoup de sens.
